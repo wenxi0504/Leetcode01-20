@@ -27,8 +27,11 @@ namespace _20Valid_Parentheses
             string s3 = "()[]{}";
             string s4 = "(]";
             string s5 = "{[]}";
+            string s6= "([}}])";
+            string s7 = "()))";
 
-
+            Console.WriteLine(s7 + IsValid(s7));
+            Console.WriteLine(s6 + IsValid(s6));
             Console.WriteLine(s5 + IsValid(s5));
             Console.WriteLine(s + IsValid(s));
             Console.WriteLine(s1 + IsValid(s1));
@@ -44,23 +47,71 @@ namespace _20Valid_Parentheses
 	        {
                 return false;
 	        }
+            //check if string contains open and close brancts
+            if (s.Contains(")") && !s.Contains("(") || s.Contains("}") && !s.Contains("{") || s.Contains("]") && !s.Contains("["))
+            {
+                return false;
+            }
+
+            int count = 0, count1 = 0, count2 = 0, count3 = 0, count4 = 0,count5=0;
+            // check the numbers of open brancts are equal to close brancts
+            foreach (var item in s)
+            {
+                if (item=='(')
+                {
+                    
+                    count++;
+                }
+                else if (item == ')')
+                {
+                    
+                        count1++;
+                }
+                else if (item == '{')
+                {
+                   
+                    count2++;
+                }
+                else if (item=='}')
+                {
+                    
+                    count3++;
+                }
+                else if(item =='[')
+                {
+                    
+                    count4++;
+                }
+                else if (item ==']')
+                {
+                    count5++;
+                }
+
+            }
+
+            if (count != count1 || count2!=count3|| count4!=count5)
+            {
+                return false;
+            }
+
             // Instantiate a stack 
             Stack stack = new Stack();
             for (int i = 0; i < s.Length; i++)
-			{
-                if (s.Substring(i,1) =="{" || s.Substring(i,1)=="(" || s.Substring(i,1)=="[")
+            {
+                
+                if (s.Substring(i, 1) == "{" || s.Substring(i, 1) == "(" || s.Substring(i, 1) == "[")
                 {  // push charecters into the stack
                     stack.Push(s.Substring(i, 1));
                 }
-                else if (s.Substring(i,1)=="}" && stack.Count!=0 && stack.Peek().Equals("{"))
+                else if (s.Substring(i, 1) == "}"  && stack.Count!=0 && stack.Peek().Equals("{"))
 	            {
                     stack.Pop();
 	            }
-                else if (s.Substring(i,1)=="]" && stack.Count!=0 && stack.Peek().Equals("["))
+                else if (s.Substring(i,1)=="]" &&stack.Count!=0 && stack.Peek().Equals("["))
                 { 
                     stack.Pop();
                 }
-                else if (s.Substring(i,1)==")" && stack.Count!=0 && stack.Peek().Equals("("))
+                else if (s.Substring(i,1)==")" &&stack.Count!=0 && stack.Peek().Equals("("))
                 { 
                     stack.Pop();
                 }
