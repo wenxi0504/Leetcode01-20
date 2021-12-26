@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\bin\Debug\net5.0\1青蛙爬楼梯.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\bin\Debug\net5.0\1青蛙爬楼梯.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\bin\Debug\net5.0\1青蛙爬楼梯.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\bin\Debug\net5.0\1青蛙爬楼梯.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\bin\Debug\net5.0\1青蛙爬楼梯.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\bin\Debug\net5.0\ref\1青蛙爬楼梯.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\bin\Debug\net5.0\1青蛙爬楼梯.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\1青蛙爬楼梯.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\1青蛙爬楼梯.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\1青蛙爬楼梯.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\1青蛙爬楼梯.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\1青蛙爬楼梯.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\1青蛙爬楼梯.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\ref\1青蛙爬楼梯.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\1青蛙爬楼梯.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\9.1青蛙爬楼梯\obj\Debug\net5.0\1青蛙爬楼梯.genruntimeconfig.cache

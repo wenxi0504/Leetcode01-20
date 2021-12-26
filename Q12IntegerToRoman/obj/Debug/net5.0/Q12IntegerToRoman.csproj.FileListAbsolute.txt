@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\bin\Debug\net5.0\Q12IntegerToRoman.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\bin\Debug\net5.0\Q12IntegerToRoman.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\bin\Debug\net5.0\Q12IntegerToRoman.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\bin\Debug\net5.0\Q12IntegerToRoman.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\bin\Debug\net5.0\Q12IntegerToRoman.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\bin\Debug\net5.0\ref\Q12IntegerToRoman.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\bin\Debug\net5.0\Q12IntegerToRoman.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\Q12IntegerToRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\Q12IntegerToRoman.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\Q12IntegerToRoman.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\Q12IntegerToRoman.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\Q12IntegerToRoman.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\ref\Q12IntegerToRoman.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\Q12IntegerToRoman.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\Q12IntegerToRoman.genruntimeconfig.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q12IntegerToRoman\obj\Debug\net5.0\Q12IntegerToRoman.csproj.AssemblyReference.cache

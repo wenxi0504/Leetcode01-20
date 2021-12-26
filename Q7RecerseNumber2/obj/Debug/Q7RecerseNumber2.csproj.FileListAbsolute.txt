@@ -1,0 +1,6 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7RecerseNumber2\bin\Debug\Q7RecerseNumber2.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7RecerseNumber2\bin\Debug\Q7RecerseNumber2.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7RecerseNumber2\bin\Debug\Q7RecerseNumber2.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7RecerseNumber2\obj\Debug\Q7RecerseNumber2.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7RecerseNumber2\obj\Debug\Q7RecerseNumber2.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7RecerseNumber2\obj\Debug\Q7RecerseNumber2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q8.StringtoInteger (atoi)01\bin\Debug\Q8.StringtoInteger (atoi)01.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Q8.StringtoInteger (atoi)01\bin\Debug\Q8.StringtoInteger (atoi)01.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q8.StringtoInteger (atoi)01\bin\Debug\Q8.StringtoInteger (atoi)01.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q8.StringtoInteger (atoi)01\obj\Debug\Q8.StringtoInteger (atoi)01.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q8.StringtoInteger (atoi)01\obj\Debug\Q8.StringtoInteger (atoi)01.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q8.StringtoInteger (atoi)01\obj\Debug\Q8.StringtoInteger (atoi)01.pdb

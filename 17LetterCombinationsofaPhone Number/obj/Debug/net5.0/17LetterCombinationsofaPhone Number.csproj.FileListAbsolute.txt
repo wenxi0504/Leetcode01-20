@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\bin\Debug\net5.0\17LetterCombinationsofaPhone Number.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\bin\Debug\net5.0\17LetterCombinationsofaPhone Number.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\bin\Debug\net5.0\17LetterCombinationsofaPhone Number.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\bin\Debug\net5.0\17LetterCombinationsofaPhone Number.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\bin\Debug\net5.0\17LetterCombinationsofaPhone Number.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\bin\Debug\net5.0\ref\17LetterCombinationsofaPhone Number.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\bin\Debug\net5.0\17LetterCombinationsofaPhone Number.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\17LetterCombinationsofaPhone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\17LetterCombinationsofaPhone Number.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\17LetterCombinationsofaPhone Number.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\17LetterCombinationsofaPhone Number.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\17LetterCombinationsofaPhone Number.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\ref\17LetterCombinationsofaPhone Number.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\17LetterCombinationsofaPhone Number.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\17LetterCombinationsofaPhone Number.genruntimeconfig.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\obj\Debug\net5.0\17LetterCombinationsofaPhone Number.csproj.AssemblyReference.cache

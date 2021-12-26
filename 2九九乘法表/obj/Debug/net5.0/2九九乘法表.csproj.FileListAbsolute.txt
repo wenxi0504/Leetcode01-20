@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\bin\Debug\net5.0\2九九乘法表.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\bin\Debug\net5.0\2九九乘法表.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\bin\Debug\net5.0\2九九乘法表.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\bin\Debug\net5.0\2九九乘法表.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\bin\Debug\net5.0\2九九乘法表.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\bin\Debug\net5.0\ref\2九九乘法表.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\bin\Debug\net5.0\2九九乘法表.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\2九九乘法表.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\2九九乘法表.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\2九九乘法表.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\2九九乘法表.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\2九九乘法表.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\2九九乘法表.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\ref\2九九乘法表.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\2九九乘法表.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\2九九乘法表\obj\Debug\net5.0\2九九乘法表.genruntimeconfig.cache

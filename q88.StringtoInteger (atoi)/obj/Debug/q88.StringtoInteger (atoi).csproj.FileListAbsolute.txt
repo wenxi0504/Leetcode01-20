@@ -1,0 +1,7 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\q88.StringtoInteger (atoi)\bin\Debug\q88.StringtoInteger (atoi).exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\q88.StringtoInteger (atoi)\bin\Debug\q88.StringtoInteger (atoi).exe
+C:\Users\Sophie\source\repos\LeetcodePractice\q88.StringtoInteger (atoi)\bin\Debug\q88.StringtoInteger (atoi).pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\q88.StringtoInteger (atoi)\obj\Debug\q88.StringtoInteger (atoi).csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\q88.StringtoInteger (atoi)\obj\Debug\q88.StringtoInteger (atoi).csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\q88.StringtoInteger (atoi)\obj\Debug\q88.StringtoInteger (atoi).exe
+C:\Users\Sophie\source\repos\LeetcodePractice\q88.StringtoInteger (atoi)\obj\Debug\q88.StringtoInteger (atoi).pdb

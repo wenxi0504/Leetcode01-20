@@ -1,0 +1,6 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Practice\bin\Debug\Practice.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Practice\bin\Debug\Practice.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Practice\obj\Debug\Practice.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Practice\obj\Debug\Practice.pdb

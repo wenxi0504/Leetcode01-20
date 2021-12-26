@@ -1,0 +1,15 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\bin\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\bin\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\bin\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\bin\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\bin\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\bin\Debug\net5.0\ref\1717LetterCombinationsofaPhone NumberV2.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\bin\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\obj\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\obj\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\obj\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\obj\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\obj\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\obj\Debug\net5.0\ref\1717LetterCombinationsofaPhone NumberV2.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\obj\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\1717LetterCombinationsofaPhone NumberV2\obj\Debug\net5.0\1717LetterCombinationsofaPhone NumberV2.genruntimeconfig.cache

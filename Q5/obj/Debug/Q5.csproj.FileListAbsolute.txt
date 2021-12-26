@@ -1,0 +1,7 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5\bin\Debug\Q5.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5\bin\Debug\Q5.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5\bin\Debug\Q5.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5\obj\Debug\Q5.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5\obj\Debug\Q5.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5\obj\Debug\Q5.pdb

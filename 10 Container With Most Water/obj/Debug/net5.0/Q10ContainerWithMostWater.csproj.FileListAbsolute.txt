@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\bin\Debug\net5.0\Q10ContainerWithMostWater.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\bin\Debug\net5.0\Q10ContainerWithMostWater.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\bin\Debug\net5.0\Q10ContainerWithMostWater.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\bin\Debug\net5.0\Q10ContainerWithMostWater.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\bin\Debug\net5.0\Q10ContainerWithMostWater.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\bin\Debug\net5.0\ref\Q10ContainerWithMostWater.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\bin\Debug\net5.0\Q10ContainerWithMostWater.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\Q10ContainerWithMostWater.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\Q10ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\Q10ContainerWithMostWater.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\Q10ContainerWithMostWater.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\Q10ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\Q10ContainerWithMostWater.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\ref\Q10ContainerWithMostWater.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\Q10ContainerWithMostWater.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\10 Container With Most Water\obj\Debug\net5.0\Q10ContainerWithMostWater.genruntimeconfig.cache

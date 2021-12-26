@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\bin\Debug\net5.0\Q16_3SumClose.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\bin\Debug\net5.0\Q16_3SumClose.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\bin\Debug\net5.0\Q16_3SumClose.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\bin\Debug\net5.0\Q16_3SumClose.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\bin\Debug\net5.0\Q16_3SumClose.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\bin\Debug\net5.0\ref\Q16_3SumClose.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\bin\Debug\net5.0\Q16_3SumClose.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\Q16_3SumClose.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\Q16_3SumClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\Q16_3SumClose.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\Q16_3SumClose.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\Q16_3SumClose.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\Q16_3SumClose.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\ref\Q16_3SumClose.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\Q16_3SumClose.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q16_3SumClose\obj\Debug\net5.0\Q16_3SumClose.genruntimeconfig.cache

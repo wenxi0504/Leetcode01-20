@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\bin\Debug\net5.0\18_4Sum.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\bin\Debug\net5.0\18_4Sum.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\bin\Debug\net5.0\18_4Sum.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\bin\Debug\net5.0\18_4Sum.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\bin\Debug\net5.0\18_4Sum.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\bin\Debug\net5.0\ref\18_4Sum.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\bin\Debug\net5.0\18_4Sum.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\18_4Sum.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\18_4Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\18_4Sum.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\18_4Sum.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\18_4Sum.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\18_4Sum.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\ref\18_4Sum.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\18_4Sum.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\18_4Sum\obj\Debug\net5.0\18_4Sum.genruntimeconfig.cache

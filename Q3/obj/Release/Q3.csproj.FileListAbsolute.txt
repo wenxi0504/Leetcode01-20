@@ -1,0 +1,6 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q3\bin\Release\Q3.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Q3\bin\Release\Q3.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q3\bin\Release\Q3.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q3\obj\Release\Q3.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q3\obj\Release\Q3.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q3\obj\Release\Q3.pdb

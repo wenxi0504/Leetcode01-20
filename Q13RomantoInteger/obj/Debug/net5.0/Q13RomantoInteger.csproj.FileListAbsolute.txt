@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\bin\Debug\net5.0\Q13RomantoInteger.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\bin\Debug\net5.0\Q13RomantoInteger.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\bin\Debug\net5.0\Q13RomantoInteger.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\bin\Debug\net5.0\Q13RomantoInteger.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\bin\Debug\net5.0\Q13RomantoInteger.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\bin\Debug\net5.0\ref\Q13RomantoInteger.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\bin\Debug\net5.0\Q13RomantoInteger.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\Q13RomantoInteger.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\Q13RomantoInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\Q13RomantoInteger.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\Q13RomantoInteger.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\Q13RomantoInteger.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\Q13RomantoInteger.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\ref\Q13RomantoInteger.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\Q13RomantoInteger.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger\obj\Debug\net5.0\Q13RomantoInteger.genruntimeconfig.cache

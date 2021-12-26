@@ -1,0 +1,7 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5回文数\bin\Debug\Q5回文数.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5回文数\bin\Debug\Q5回文数.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5回文数\bin\Debug\Q5回文数.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5回文数\obj\Debug\Q5回文数.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5回文数\obj\Debug\Q5回文数.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5回文数\obj\Debug\Q5回文数.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5回文数\obj\Debug\Q5回文数.pdb

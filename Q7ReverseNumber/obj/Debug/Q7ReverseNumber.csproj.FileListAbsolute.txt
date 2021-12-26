@@ -1,0 +1,6 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7ReverseNumber\bin\Debug\Q7ReverseNumber.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7ReverseNumber\bin\Debug\Q7ReverseNumber.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7ReverseNumber\bin\Debug\Q7ReverseNumber.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7ReverseNumber\obj\Debug\Q7ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7ReverseNumber\obj\Debug\Q7ReverseNumber.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q7ReverseNumber\obj\Debug\Q7ReverseNumber.pdb

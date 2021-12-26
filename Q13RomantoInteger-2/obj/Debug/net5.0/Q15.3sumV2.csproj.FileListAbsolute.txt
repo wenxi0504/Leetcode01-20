@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\bin\Debug\net5.0\Q15.3sumV2.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\bin\Debug\net5.0\Q15.3sumV2.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\bin\Debug\net5.0\Q15.3sumV2.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\bin\Debug\net5.0\Q15.3sumV2.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\bin\Debug\net5.0\Q15.3sumV2.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\bin\Debug\net5.0\ref\Q15.3sumV2.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\bin\Debug\net5.0\Q15.3sumV2.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\Q15.3sumV2.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\Q15.3sumV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\Q15.3sumV2.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\Q15.3sumV2.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\Q15.3sumV2.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\Q15.3sumV2.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\ref\Q15.3sumV2.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\Q15.3sumV2.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q13RomantoInteger-2\obj\Debug\net5.0\Q15.3sumV2.genruntimeconfig.cache

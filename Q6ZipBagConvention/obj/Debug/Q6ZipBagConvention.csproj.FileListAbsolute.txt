@@ -1,0 +1,6 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q6ZipBagConvention\bin\Debug\Q6ZipBagConvention.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Q6ZipBagConvention\bin\Debug\Q6ZipBagConvention.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q6ZipBagConvention\bin\Debug\Q6ZipBagConvention.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q6ZipBagConvention\obj\Debug\Q6ZipBagConvention.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q6ZipBagConvention\obj\Debug\Q6ZipBagConvention.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q6ZipBagConvention\obj\Debug\Q6ZipBagConvention.pdb

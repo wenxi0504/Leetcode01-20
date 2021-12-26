@@ -1,0 +1,7 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5Vince\bin\Debug\Q5Vince.exe.config
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5Vince\bin\Debug\Q5Vince.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5Vince\bin\Debug\Q5Vince.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5Vince\obj\Debug\Q5Vince.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5Vince\obj\Debug\Q5Vince.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5Vince\obj\Debug\Q5Vince.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5Vince\obj\Debug\Q5Vince.pdb

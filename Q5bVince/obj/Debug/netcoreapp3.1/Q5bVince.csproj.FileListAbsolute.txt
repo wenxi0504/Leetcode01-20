@@ -1,0 +1,14 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\bin\Debug\netcoreapp3.1\Q5bVince.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\bin\Debug\netcoreapp3.1\Q5bVince.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\bin\Debug\netcoreapp3.1\Q5bVince.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\bin\Debug\netcoreapp3.1\Q5bVince.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\bin\Debug\netcoreapp3.1\Q5bVince.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\bin\Debug\netcoreapp3.1\Q5bVince.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\obj\Debug\netcoreapp3.1\Q5bVince.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\obj\Debug\netcoreapp3.1\Q5bVince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\obj\Debug\netcoreapp3.1\Q5bVince.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\obj\Debug\netcoreapp3.1\Q5bVince.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\obj\Debug\netcoreapp3.1\Q5bVince.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\obj\Debug\netcoreapp3.1\Q5bVince.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\obj\Debug\netcoreapp3.1\Q5bVince.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q5bVince\obj\Debug\netcoreapp3.1\Q5bVince.genruntimeconfig.cache

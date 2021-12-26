@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\bin\Debug\net5.0\Q14Longest Common Prefix.exe
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\bin\Debug\net5.0\Q14Longest Common Prefix.deps.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\bin\Debug\net5.0\Q14Longest Common Prefix.runtimeconfig.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\bin\Debug\net5.0\Q14Longest Common Prefix.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\bin\Debug\net5.0\Q14Longest Common Prefix.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\bin\Debug\net5.0\ref\Q14Longest Common Prefix.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\bin\Debug\net5.0\Q14Longest Common Prefix.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\Q14Longest Common Prefix.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\Q14Longest Common Prefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\Q14Longest Common Prefix.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\Q14Longest Common Prefix.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\Q14Longest Common Prefix.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\Q14Longest Common Prefix.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\ref\Q14Longest Common Prefix.dll
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\Q14Longest Common Prefix.pdb
+C:\Users\Sophie\source\repos\LeetcodePractice\Q14Longest Common Prefix\obj\Debug\net5.0\Q14Longest Common Prefix.genruntimeconfig.cache
