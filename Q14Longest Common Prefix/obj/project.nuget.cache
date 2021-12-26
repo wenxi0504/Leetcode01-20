@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q9MfgaV1k1KDqv+rlua/jxUWlNjSKtv/55R7w6ipsKZyPYFPMTHxGNpbDx2got3DfAYxVY/Eadrz4vxBY3KPHw==",
+  "dgSpecHash": "Sxqp30Iob9Do+8wfu1TNZ5LqltQ25pNS93GWCMMdGBacil1UVlXHnPmJOzstYEHa1/k8tqi8PnYYx0uW99FXdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q14Longest Common Prefix\\Q14Longest Common Prefix.csproj",
+  "projectFilePath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q14Longest Common Prefix\\Q14Longest Common Prefix.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q5bVince\\Q5bVince.csproj",
+      "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q5bVince\\Q5bVince.csproj",
       "projectName": "Q5bVince",
-      "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q5bVince\\Q5bVince.csproj",
+      "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q5bVince\\Q5bVince.csproj",
       "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q5bVince\\obj\\",
+      "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q5bVince\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

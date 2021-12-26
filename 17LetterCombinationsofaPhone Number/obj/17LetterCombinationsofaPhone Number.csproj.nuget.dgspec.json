@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\17LetterCombinationsofaPhone Number\\17LetterCombinationsofaPhone Number.csproj": {}
+    "C:\\Users\\Sophie\\source\\Leetcode01-20\\17LetterCombinationsofaPhone Number\\17LetterCombinationsofaPhone Number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\17LetterCombinationsofaPhone Number\\17LetterCombinationsofaPhone Number.csproj": {
+    "C:\\Users\\Sophie\\source\\Leetcode01-20\\17LetterCombinationsofaPhone Number\\17LetterCombinationsofaPhone Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\17LetterCombinationsofaPhone Number\\17LetterCombinationsofaPhone Number.csproj",
+        "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\17LetterCombinationsofaPhone Number\\17LetterCombinationsofaPhone Number.csproj",
         "projectName": "17LetterCombinationsofaPhone Number",
-        "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\17LetterCombinationsofaPhone Number\\17LetterCombinationsofaPhone Number.csproj",
+        "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\17LetterCombinationsofaPhone Number\\17LetterCombinationsofaPhone Number.csproj",
         "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\17LetterCombinationsofaPhone Number\\obj\\",
+        "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\17LetterCombinationsofaPhone Number\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

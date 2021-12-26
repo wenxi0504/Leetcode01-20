@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\20Valid Parentheses\\20Valid Parentheses.csproj": {}
+    "C:\\Users\\Sophie\\source\\Leetcode01-20\\20Valid Parentheses\\20Valid Parentheses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\20Valid Parentheses\\20Valid Parentheses.csproj": {
+    "C:\\Users\\Sophie\\source\\Leetcode01-20\\20Valid Parentheses\\20Valid Parentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\20Valid Parentheses\\20Valid Parentheses.csproj",
+        "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\20Valid Parentheses\\20Valid Parentheses.csproj",
         "projectName": "20Valid Parentheses",
-        "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\20Valid Parentheses\\20Valid Parentheses.csproj",
+        "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\20Valid Parentheses\\20Valid Parentheses.csproj",
         "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\20Valid Parentheses\\obj\\",
+        "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\20Valid Parentheses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

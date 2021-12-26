@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5NC9E8xuv2Jq1kTDoLHWO55qbGcafVR3sXz4O3r0Usy49oTEgh/OQaR9wxPmnURfvUsbZYMhL0coVtdBnt3Nsg==",
+  "dgSpecHash": "0Id4T0qdcbTevJUjcOoBiHU7Ys3N0n5SJonSu+lsV5DSMstrQ94E6EKwt6ePYYLyvSaIzDkj74FIu2qzMhk1ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\18_4Sum\\18_4Sum.csproj",
+  "projectFilePath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\18_4Sum\\18_4Sum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

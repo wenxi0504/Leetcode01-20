@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace _20Valid_Parentheses
 {
@@ -18,7 +19,7 @@ namespace _20Valid_Parentheses
          * 
          */
         static void Main(string[] args)
-        {  // using stack 
+        {  // using stack mathod
 
             string s = "()";
             string s1 = "[]";
@@ -38,11 +39,34 @@ namespace _20Valid_Parentheses
 
         public static bool IsValid(string s)
         { 
+            // check if the length of string is odd or even
+            if (s.Length %2 !=0 )
+	        {
+                return false;
+	        }
+            // Instantiate a stack 
+            Stack stack = new Stack();
+            for (int i = 0; i < s.Length; i++)
+			{
+                if (s.Substring(i,1) =="{" || s.Substring(i,1)=="(" || s.Substring(i,1)=="[")
+                {  // push charecters into the stack
+                    stack.Push(s.Substring(i, 1));
+                }
+                else if (s.Substring(i,1)=="}" && stack.Count!=0 && stack.Peek().Equals("{"))
+	            {
+                    stack.Pop();
+	            }
+                else if (s.Substring(i,1)=="]" && stack.Count!=0 && stack.Peek().Equals("["))
+                { 
+                    stack.Pop();
+                }
+                else if (s.Substring(i,1)==")" && stack.Count!=0 && stack.Peek().Equals("("))
+                { 
+                    stack.Pop();
+                }
+			}
 
-
-
-
-            return true;
+            return stack.Count==0;
         }
 
 

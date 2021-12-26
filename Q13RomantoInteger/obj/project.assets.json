@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q13RomantoInteger\\Q13RomantoInteger.csproj",
+      "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q13RomantoInteger\\Q13RomantoInteger.csproj",
       "projectName": "Q13RomantoInteger",
-      "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q13RomantoInteger\\Q13RomantoInteger.csproj",
+      "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q13RomantoInteger\\Q13RomantoInteger.csproj",
       "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q13RomantoInteger\\obj\\",
+      "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q13RomantoInteger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

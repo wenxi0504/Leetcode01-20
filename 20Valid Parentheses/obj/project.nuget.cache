@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lzvnoUQVu8OwPIc1Fx1jaDSXH3sHTiWZMvxkmSjEdNCcnFWb+O/tgg+i55sidInGUE8LdcH8S83OgmzRv13vkQ==",
+  "dgSpecHash": "lZM+xEDpQOdCNJnhlMcRY7N3EuN9iqt4xh8w86gVJhXfydgVt7OOrSnycpIXUE1gjmQyyjHMVzrDsm64leSzjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\20Valid Parentheses\\20Valid Parentheses.csproj",
+  "projectFilePath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\20Valid Parentheses\\20Valid Parentheses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

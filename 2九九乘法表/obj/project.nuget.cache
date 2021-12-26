@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9V+uCiMJAwO8onQgu8ogaAQChI90ZJx2Xg+TJiRdL/uWBbSomv3ca8T9Iv78IAlIKzHdn96llth9XhcoKXvNw==",
+  "dgSpecHash": "1r00GFTYdCkelcsifUFkz0QQLMi4KLoRoyzA+k4+5QAMblY2aspaRK3swhftjKR1u4emRis2ui/qBh+BgE/SyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\2九九乘法表\\2九九乘法表.csproj",
+  "projectFilePath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\2九九乘法表\\2九九乘法表.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

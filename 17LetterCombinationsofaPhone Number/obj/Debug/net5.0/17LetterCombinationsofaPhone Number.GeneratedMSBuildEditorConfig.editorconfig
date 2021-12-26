@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = _17LetterCombinationsofaPhone_Number
-build_property.ProjectDir = C:\Users\Sophie\source\repos\LeetcodePractice\17LetterCombinationsofaPhone Number\
+build_property.ProjectDir = C:\Users\Sophie\source\Leetcode01-20\17LetterCombinationsofaPhone Number\

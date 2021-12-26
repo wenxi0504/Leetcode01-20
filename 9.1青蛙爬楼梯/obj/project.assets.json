@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\9.1青蛙爬楼梯\\1青蛙爬楼梯.csproj",
+      "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\9.1青蛙爬楼梯\\1青蛙爬楼梯.csproj",
       "projectName": "1青蛙爬楼梯",
-      "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\9.1青蛙爬楼梯\\1青蛙爬楼梯.csproj",
+      "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\9.1青蛙爬楼梯\\1青蛙爬楼梯.csproj",
       "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\9.1青蛙爬楼梯\\obj\\",
+      "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\9.1青蛙爬楼梯\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

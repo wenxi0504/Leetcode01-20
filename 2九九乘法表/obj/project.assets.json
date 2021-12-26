@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\2九九乘法表\\2九九乘法表.csproj",
+      "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\2九九乘法表\\2九九乘法表.csproj",
       "projectName": "2九九乘法表",
-      "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\2九九乘法表\\2九九乘法表.csproj",
+      "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\2九九乘法表\\2九九乘法表.csproj",
       "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\2九九乘法表\\obj\\",
+      "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\2九九乘法表\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\10 Container With Most Water\\Q11ContainerWithMostWater.csproj": {}
+    "C:\\Users\\Sophie\\source\\Leetcode01-20\\10 Container With Most Water\\Q11ContainerWithMostWater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\10 Container With Most Water\\Q11ContainerWithMostWater.csproj": {
+    "C:\\Users\\Sophie\\source\\Leetcode01-20\\10 Container With Most Water\\Q11ContainerWithMostWater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\10 Container With Most Water\\Q11ContainerWithMostWater.csproj",
+        "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\10 Container With Most Water\\Q11ContainerWithMostWater.csproj",
         "projectName": "Q11ContainerWithMostWater",
-        "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\10 Container With Most Water\\Q11ContainerWithMostWater.csproj",
+        "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\10 Container With Most Water\\Q11ContainerWithMostWater.csproj",
         "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\10 Container With Most Water\\obj\\",
+        "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\10 Container With Most Water\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

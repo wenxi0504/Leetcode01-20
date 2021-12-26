@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q16_3SumClose\\Q16_3SumClose.csproj",
+      "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q16_3SumClose\\Q16_3SumClose.csproj",
       "projectName": "Q16_3SumClose",
-      "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q16_3SumClose\\Q16_3SumClose.csproj",
+      "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q16_3SumClose\\Q16_3SumClose.csproj",
       "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q16_3SumClose\\obj\\",
+      "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q16_3SumClose\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

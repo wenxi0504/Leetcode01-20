@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q12IntegerToRoman\\Q12IntegerToRoman.csproj",
+      "projectUniqueName": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q12IntegerToRoman\\Q12IntegerToRoman.csproj",
       "projectName": "Q12IntegerToRoman",
-      "projectPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q12IntegerToRoman\\Q12IntegerToRoman.csproj",
+      "projectPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q12IntegerToRoman\\Q12IntegerToRoman.csproj",
       "packagesPath": "C:\\Users\\Sophie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sophie\\source\\repos\\LeetcodePractice\\Q12IntegerToRoman\\obj\\",
+      "outputPath": "C:\\Users\\Sophie\\source\\Leetcode01-20\\Q12IntegerToRoman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
