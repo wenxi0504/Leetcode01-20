@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18_4Sum", "18_4Sum\18_4Sum.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19. Remove Nth Node From End of List", "19. Remove Nth Node From End of List\19. Remove Nth Node From End of List.csproj", "{0C1D2E40-6FF5-4B09-8B04-5E44C6EDAB8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20Valid Parentheses", "20Valid Parentheses\20Valid Parentheses.csproj", "{FB64DCFE-DBBF-4945-8890-7F4C158FDD54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20Valid Parentheses", "20Valid Parentheses\20Valid Parentheses.csproj", "{FB64DCFE-DBBF-4945-8890-7F4C158FDD54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20isValid_V2", "20isValid_V2\20isValid_V2.csproj", "{9D18A328-C101-41DE-B2E9-5CAA88181423}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{FB64DCFE-DBBF-4945-8890-7F4C158FDD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB64DCFE-DBBF-4945-8890-7F4C158FDD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB64DCFE-DBBF-4945-8890-7F4C158FDD54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D18A328-C101-41DE-B2E9-5CAA88181423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D18A328-C101-41DE-B2E9-5CAA88181423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D18A328-C101-41DE-B2E9-5CAA88181423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D18A328-C101-41DE-B2E9-5CAA88181423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
